@@ -15,4 +15,8 @@ body{
     overflow: auto;
     text-align: center;
 }
+.logotipo{
+    float: left;
+    padding: 20px;
+}
 

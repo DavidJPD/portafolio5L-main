@@ -13,7 +13,7 @@
         <!--Menu-->
         <nav id="navbar" >
             <div class="contenedor">
-                <img src="img/logo.png" alt="Logo"/>
+                <img src="img/logo.png" alt="Logo" class="logotipo"/>
                 <ul >
                     <li ><a href="index.html" class="Seleccionado">Inicio</a></li>
                     <li><a href="quien.html">Quien soy</a></li>
