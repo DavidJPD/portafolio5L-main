@@ -11,8 +11,8 @@
 <body>
     <header>
         <!--Menu-->
-        <nav id="" >
-            <div>
+        <nav id="navbar" >
+            <div class="contenedor">
                 <img src="img/logo.png" alt="Logo"/>
                 <ul >
                     <li ><a href="index.html" class="Seleccionado">Inicio</a></li>
